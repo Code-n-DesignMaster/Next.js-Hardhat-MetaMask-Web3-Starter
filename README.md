@@ -43,7 +43,7 @@ Ensure you have the following installed on your machine:
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/nextjs-hardhat-web3-starter.git
+git clone https://github.com/SerhiiKalachnikov/nextjs-hardhat-web3-starter.git
 cd nextjs-hardhat-web3-starter
 ```
 
